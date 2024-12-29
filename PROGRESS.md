@@ -4,8 +4,8 @@
 
 ### Resumen
 - Fecha de Inicio: 26/12/24
-- Ejercicios Completados: 2
-- Tiempo Total Invertido: 18h
+- Ejercicios Completados: 3
+- Tiempo Total Invertido: 40 min
 - Mentorías Recibidas: 0
 
 ### 📈 Registro de Ejercicios
@@ -14,6 +14,8 @@
 |-----|--------------------------|----------|--------|-------------------|-----------------|-----------------|-------|
 | 001 | Hello World              | 26/12/24 | 3 min  | Tutorial Exercise |                 |                 |       |
 | 002 | Guido's Gorgeous Lasagna | 28/12/24 | 15 min | Learning Exercise |                 |                 |       |
+| 003 | Ghost Gobble Arcade Game | 28/12/24 | 12 min | Learning Exercise |                 |                 |       |
+| 004 | Currency Exchange        | 28/12/24 | 10 min | Learning Exercise |                 |                 |       |
 
 ### 🎯 Conceptos Dominados
 
