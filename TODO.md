@@ -14,7 +14,7 @@
 ### 📚 Plan de Estudio
 
 #### Esta Semana (26 - 29/12)
-- [ ] Completar ejercicios 001-005
+- [x] Completar ejercicios 001-005
 - [x] Leer documentación sobre funciones en Python
 - [x] Practicar con pytest
 
