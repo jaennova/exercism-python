@@ -6,7 +6,7 @@
 
 - Fecha de Inicio: 26/12/24
 - Ejercicios Completados: 5
-- Tiempo Total Invertido: 53 min
+- Tiempo Total Invertido: 50 min
 - Mentorías Recibidas: 1
 
 ### 📈 Registro de Ejercicios
@@ -14,11 +14,10 @@
 | #   | Ejercicio                | Fecha    | Tiempo | Dificultad        | Conceptos Clave | Recursos Útiles | Notas |
 |-----|--------------------------|----------|--------|-------------------|-----------------|-----------------|-------|
 | 001 | Hello World              | 26/12/24 | 3 min  | Tutorial Exercise |                 |                 |       |
-| 002 | Armstrong Numbers        | 30/12/24 | 4 min  | Easy              |                 |                 |       |
-| 008 | Guido's Gorgeous Lasagna | 28/12/24 | 15 min | Learning Exercise |                 |                 |       |
-| 015 | Ghost Gobble Arcade Game | 28/12/24 | 12 min | Learning Exercise |                 |                 |       |
-| 022 | Currency Exchange        | 28/12/24 | 10 min | Learning Exercise |                 |                 |       |
-| 029 | Meltdown Mitigation      | 29/12/24 | 10 min | Learning Exercise |                 |                 |       |
+| 002 | Guido's Gorgeous Lasagna | 28/12/24 | 15 min | Learning Exercise |                 |                 |       |
+| 003 | Ghost Gobble Arcade Game | 28/12/24 | 12 min | Learning Exercise |                 |                 |       |
+| 004 | Currency Exchange        | 28/12/24 | 10 min | Learning Exercise |                 |                 |       |
+| 005 | Meltdown Mitigation      | 29/12/24 | 10 min | Learning Exercise |                 |                 |       |
 
 ### 🎯 Conceptos Dominados
 
