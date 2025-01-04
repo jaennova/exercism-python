@@ -15,15 +15,12 @@ def value_of_card(card):
     2.  'A' (ace card) = 1
     3.  '2' - '10' = numerical value.
     """
-    try:
-        if card in ['J', 'Q', 'K']:
-            return 10
-        elif card == 'A':
-            return 1
-        else:
-            return int(card)
-    except ValueError:
-        raise ValueError(f'invalid card: {card}')
+
+    if card in ['J', 'Q', 'K']:
+        return 10
+    if card == 'A':
+        return 1
+    return int(card)
 
 
 def higher_card(card_one, card_two):
@@ -38,10 +35,10 @@ def higher_card(card_one, card_two):
     """
     if value_of_card(card_one) > value_of_card(card_two):
         return card_one
-    elif value_of_card(card_one) == value_of_card(card_two):
+    if value_of_card(card_one) == value_of_card(card_two):
         return card_one, card_two
-    else:
-        return card_two
+
+    return card_two
 
 
 def value_of_ace(card_one, card_two):
@@ -58,8 +55,7 @@ def value_of_ace(card_one, card_two):
     card_two = 11 if card_two == 'A' else card_two
     if value_of_card(card_one) + value_of_card(card_two) <= 10:
         return 11
-    else:
-        return 1
+    return 1
 
 
 def is_blackjack(card_one, card_two):
