@@ -5,8 +5,8 @@
 ### Resumen
 
 - Fecha de Inicio: 26/12/24
-- Ejercicios Completados: 7
-- Tiempo Total Invertido: 94 min
+- Ejercicios Completados: 8
+- Tiempo Total Invertido: 114 min
 - Mentorías Recibidas: 2
 
 ### 📈 Registro de Ejercicios
@@ -20,6 +20,7 @@
 | 005 | Meltdown Mitigation      | 29/12/24 | 10 min | Learning Exercise |                 |                 |       |
 | 006 | Blackjack                | 04/01/25 | 40 min | Learning Exercise |                 |                 |       |
 | 007 | Little Sister's Essay    | 04/01/25 | 4 min  | Learning Exercise |                 |                 |       |
+| 008 | Little Sister's Vocab    | 19/01/25 | 20 min | Learning Exercise |                 |                 |       |
 
 ### 🎯 Conceptos Dominados
 
